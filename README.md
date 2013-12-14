@@ -1,9 +1,10 @@
 DESN 368 FINAL 
 
 ##Objectives
-*
-*
-*
+*Presence
+*Clean
+*Portfolio/Contact
+
 
 ##CONTENT
 *About Me
